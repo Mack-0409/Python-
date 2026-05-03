@@ -11,21 +11,21 @@ if user_choice == comp_choice:
     print("It's a tie!")
 elif user_choice == "Rock":
     if comp_choice == "Paper":
-        print("paper covers rock")
+        print("Paper covers Rock")
     else:
-        print("Rock smashes scissor")
+        print("Rock smashes Scissor")
 
 elif user_choice == "Paper":
     if comp_choice == "Scissor":
-        print("scissor cuts paper")
+        print("Scissor cuts Paper")
     else:
-        print("paper covers rock")
+        print("Paper covers Rock")
 
 elif user_choice == "Scissor":
     if comp_choice == "Paper":
-        print("scissor cuts paper")
+        print("Scissor cuts Paper")
     else :
-        print("rock smashes scissor")
+        print("Sock smashes Scissor")
 
 
  
