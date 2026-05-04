@@ -7,6 +7,7 @@ menu = {
     'Coffee':80,
     'Burger':100,
     'Tea':20,
+    'chicken fry':150,
 }
 
 # Greet
